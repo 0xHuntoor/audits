@@ -11,7 +11,7 @@ This repository showcases my work, reflecting my dedication in making decentrali
 
 # Contact Me
 
-- [Twitter](https://x.com/IlIlHunterlIlI)
+- [**Twitter**](https://x.com/IlIlHunterlIlI)
 - [**Discord**](https://discord.com/users/715472416675070033)
 
 # 🏆 Honors and Distinctions 🏆
