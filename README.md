@@ -24,7 +24,7 @@ This repository showcases my work, reflecting my dedication in making decentrali
 - Ranked 9th on [Midas](https://audits.sherlock.xyz/contests/495/leaderboard)
 
 
-# Solo Audit Contests Achievements
+# Solo Contests Achievements
 
 
 | Contest                                                                                                                  | Date     | Description                  | Findings                                   |                                                          Rank                                                          |                                             Report                                             |
@@ -35,7 +35,7 @@ This repository showcases my work, reflecting my dedication in making decentrali
 | [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier)                                                       | OCT 2024 | Debt Tracking NFT | [1 L](/Contests/2024-10-SablierFlow.md)          |                              [8th](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)                               |                     [📄](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=report)                      |
 | [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496) | OCT 2024 | Liquidity Management, Zero Knowledge Proofs | [1 H](/Contests/2024-10-Gamma.md) | [3rd](https://audits.sherlock.xyz/contests/496/leaderboard)<br>🥉 | [📄](https://audits.sherlock.xyz/contests/496/report) |
 
-# BugPull Audit Contests Achievements
+# BugPull Contests Achievements
 
 | Contest                                                                    | Date      | Description                                               | Findings                                        |                              Rank                              |                         Report                         |
 | :------------------------------------------------------------------------- | --------- | :-------------------------------------------------------- | :---------------------------------------------- | :------------------------------------------------------------: | :----------------------------------------------------: |
