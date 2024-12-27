@@ -5,7 +5,7 @@
 
 
 
-Hi, Iam Hunter, a skilled smart contract auditor and co-leader of [BUGPULL](https://github.com/bugpull/audits) with a strong track record in uncovering vulnerabilities across diverse DApps and DeFi protocols. Known for a meticulous approach and a deep commitment to security.
+Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in uncovering vulnerabilities across diverse DApps and DeFi protocols. Known for a meticulous approach and a deep commitment to security.
 
 This repository showcases my work, reflecting my dedication in making decentralized finance safer for everyone.
 
