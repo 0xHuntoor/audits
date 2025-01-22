@@ -15,6 +15,15 @@ This repository showcases my work, reflecting my dedication in making decentrali
 - [**Discord**](https://discord.com/users/715472416675070033)
 - [**Telegram**](http://t.me/IlIlHunterlIlI)
 
+# 🏆 Honors and Distinctions 🏆
+- Ranked 2nd on [FenixFinance](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard) 
+- Ranked 3rd on [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496/leaderboard) 
+- Ranked 4th on [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)
+- Ranked 5th on [Munchables - LandManager](https://code4rena.com/audits/2024-07-munchables)
+- Ranked 5th on [fLayer](https://audits.sherlock.xyz/contests/468/leaderboard)
+- Ranked 7th on [OKU](https://audits.sherlock.xyz/contests/641/leaderboard)
+- Ranked 8th on [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)
+- Ranked 9th on [Midas](https://audits.sherlock.xyz/contests/495/leaderboard)
 
 # Solo Contests Achievements
 
