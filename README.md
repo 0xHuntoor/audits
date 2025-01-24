@@ -1,4 +1,4 @@
-# About me
+## About me
 
 
 
@@ -9,13 +9,13 @@ Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in u
 
 This repository showcases my work, reflecting my dedication in making decentralized finance safer for everyone.
 
-# Contact Me
+## Contact Me
 
 - [**Twitter**](https://x.com/IlIlHunterlIlI)
 - [**Discord**](https://discord.com/users/715472416675070033)
 - [**Telegram**](http://t.me/IlIlHunterlIlI)
 
-# 🏆 Honors and Distinctions 🏆
+## 🏆 Honors and Distinctions 🏆
 - Ranked 2nd on [FenixFinance](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard) 
 - Ranked 3rd on [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496/leaderboard) 
 - Ranked 4th on [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)
@@ -24,7 +24,7 @@ This repository showcases my work, reflecting my dedication in making decentrali
 - Ranked 7th on [OKU](https://audits.sherlock.xyz/contests/641/leaderboard)
 
 
-# Solo Contests Achievements
+## Solo Contests Achievements
 
 
 | Contest                                                                                                                  | Date     | Description                  | Findings                                   |                                                          Rank                                                          |                                             Report                                             |
@@ -35,7 +35,7 @@ This repository showcases my work, reflecting my dedication in making decentrali
 | [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier)                                                       | OCT 2024 | Debt Tracking NFT | [1 L](/Contests/2024-10-SablierFlow.md)          |                              [8th](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)                               |                     [📄](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=report)                      |
 | [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496) | OCT 2024 | Liquidity Management, Zero Knowledge Proofs | [1 H](/Contests/2024-10-Gamma.md) | [3rd](https://audits.sherlock.xyz/contests/496/leaderboard)<br>🥉 | [📄](https://audits.sherlock.xyz/contests/496/report) |
 
-# BugPull Contests Achievements
+## BugPull Contests Achievements
 
 | Contest                                                                    | Date      | Description                                               | Findings                                        |                              Rank                              |                         Report                         |
 | :------------------------------------------------------------------------- | --------- | :-------------------------------------------------------- | :---------------------------------------------- | :------------------------------------------------------------: | :----------------------------------------------------: |
@@ -43,3 +43,9 @@ This repository showcases my work, reflecting my dedication in making decentrali
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)          | Sep 2024  | NFT Liquidity, and Bridge Protocol (utilizing uniV4 Hook) | [6 M (1 solo), 8H](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md) | [5th](https://audits.sherlock.xyz/contests/468/leaderboard) 🏅 | [📄](https://audits.sherlock.xyz/contests/468/report)  |
 | [OKU](https://audits.sherlock.xyz/contests/641)          | Nov 2024  | Advanced Order Book DEX | [5 H, 2M ](https://github.com/bugpull/audits/blob/main/Contests/2024-12-OKU.md) | [7th](https://audits.sherlock.xyz/contests/641/leaderboard) | [📄](https://audits.sherlock.xyz/contests/641/report)  |
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)      | Dec 2024  | Tokenized Yearn V3 Vaults Integration                     | [3M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)               | [4th](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🏅 | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
+
+## Bug Bounties
+
+| Project    |Category|Severity| Report |
+|------------|---------|---------|---------|
+|Common Wealth|Staking and on-chain VC |High|Private  |
