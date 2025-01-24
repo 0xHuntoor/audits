@@ -22,8 +22,7 @@ This repository showcases my work, reflecting my dedication in making decentrali
 - Ranked 5th on [Munchables - LandManager](https://code4rena.com/audits/2024-07-munchables)
 - Ranked 5th on [fLayer](https://audits.sherlock.xyz/contests/468/leaderboard)
 - Ranked 7th on [OKU](https://audits.sherlock.xyz/contests/641/leaderboard)
-- Ranked 8th on [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)
-- Ranked 9th on [Midas](https://audits.sherlock.xyz/contests/495/leaderboard)
+
 
 # Solo Contests Achievements
 
