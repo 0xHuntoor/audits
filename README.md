@@ -1,14 +1,6 @@
 ## About me
 
-
-
-
-
-
-Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in uncovering vulnerabilities across diverse DApps and DeFi protocols. Known for a meticulous approach and a deep commitment to security.
-
-This repository showcases my work, reflecting my dedication in making decentralized finance safer for everyone.
-
+Hi, Iam Hunter, Iam hunting bugs everywhere
 ## Contact Me
 
 - [**Twitter**](https://x.com/IlIlHunterlIlI)
