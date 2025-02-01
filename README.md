@@ -1,6 +1,8 @@
 ## About me
 
-Hi, Iam Hunter, Iam hunting bugs everywhere
+Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
+
+- _**This repository showcases my contest achievements**_
 ## Contact Me
 
 - [**Twitter**](https://x.com/IlIlHunterlIlI)
@@ -36,9 +38,3 @@ Hi, Iam Hunter, Iam hunting bugs everywhere
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)           | Sep 2024  | Liquidity protocol for NFTs with custom Uniswap V4 hook | [6 M (1 solo), 8H](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md) |                            [5th](https://audits.sherlock.xyz/contests/468/leaderboard)<br>🏅                            |                            [📄](https://audits.sherlock.xyz/contests/468/report)                            |
 | [Munchables - LandManager](https://code4rena.com/audits/2024-07-munchables) | July 2024 | GameFi, Point Farming                                   | [3 H, 1 L](https://github.com/bugpull/audits/blob/main/Contests/2024-07-munchables.md)     |                              [5th](https://code4rena.com/audits/2024-07-munchables)<br>🏅                               |                           [📄](https://code4rena.com/reports/2024-07-munchables)                            |
 
-
-## Bug Bounties
-
-| Project    |Category|Severity| Report |
-|------------|---------|---------|---------|
-|Common Wealth|Staking and on-chain VC |High|Private  |
