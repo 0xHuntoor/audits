@@ -2,7 +2,7 @@
 
 Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 
-- _**This repository showcases my contest achievements**_
+- _**This repository showcases my previous audits**_
 ## Contact Me
 
 - [**Twitter**](https://x.com/IlIlHunterlIlI)
