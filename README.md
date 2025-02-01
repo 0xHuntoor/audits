@@ -31,6 +31,8 @@ Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 
 ## BugPull Contests Achievements
 
+- **BugPull** is where i collab with [_Mostafa_](https://github.com/rzizah) as a DUO team
+
 | Contest                                                                     | Date      | Description                                             | Findings                                                                                   |                                                          Rank                                                           |                                                   Report                                                    |
 | :-------------------------------------------------------------------------- | --------- | :------------------------------------------------------ | :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)       | Dec 2024  | Yearn V3 Tokenized Vault Integration                    | [3M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)             | [4th](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🏅 | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
