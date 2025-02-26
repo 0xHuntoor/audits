@@ -181,12 +181,7 @@ implement timelock on LP providing, or implement vesting logic for donation
 
   
 
-## [H-02] UpLift fees are applied on `depositAmount` instead of the upLifted (profit) value            
-
-  
-  
-  
-
+## [H-02] UpLift fees are applied on `depositAmount` instead of the upLifted (profit) value
 ### Summary
 
   
@@ -271,12 +266,7 @@ Manual review
 
   
 
-## [H-03] freeze of funds (fees) to `QuantAMMAdmin` in `onAfterRemoveLiquidity()` fees distribution            
-
-  
-  
-  
-
+## [H-03] freeze of funds (fees) to `QuantAMMAdmin` in `onAfterRemoveLiquidity()` fees distribution
 ### Summary
 
   
@@ -493,12 +483,7 @@ Manual Review
 
   
 
-## [H-04] in `onAfterRemoveLiquidity()`, `maxAmountsIn` during admin fee distribution can cause txn reverts            
-
-  
-  
-  
-
+## [H-04] in `onAfterRemoveLiquidity()`, `maxAmountsIn` during admin fee distribution can cause txn reverts
 ### Summary
 
   
@@ -671,12 +656,7 @@ Build a logic that
 
   
 
-## [H-05] Truncation due to bad order of division causing higher fees sent to the admin            
-
-  
-  
-  
-
+## [H-05] Truncation due to bad order of division causing higher fees sent to the admin 
 ### Summary
 
   
@@ -805,12 +785,7 @@ uint256 adminFee = (hookFee * quantAMMFeeTake) / 1e18;
 
   
 
-## [H-06] improper access control in `onAfterRemoveLiquidity()` risks loss of funds by attacker            
-
-  
-  
-  
-
+## [H-06] improper access control in `onAfterRemoveLiquidity()` risks loss of funds by attacker
 ### Summary
 
   
@@ -1044,12 +1019,7 @@ Add `OnlyVault` modifier
 
   
 
-## [H-07] Hook fees (`ownerFee`) are stuck in `UpliftOnlyExample` and non retrievable            
-
-  
-  
-  
-
+## [H-07] Hook fees (`ownerFee`) are stuck in `UpliftOnlyExample` and non retrievable
 ### Summary
 
   
@@ -1120,12 +1090,7 @@ use the `ownerFee` to be donated to the pool like the logic in `onAfterRemoveLiq
 
   
 
-## [H-08] Users can avoid paying fees on up lifts by utilising `afterUpdate` Logic            
-
-  
-  
-  
-
+## [H-08] Users can avoid paying fees on up lifts by utilising `afterUpdate` Logic
 ### Summary
 
   
@@ -1276,12 +1241,7 @@ Don't override deposit value when transferring, or charge fees during transfers 
 
   
 
-## [M-01] Last withdrawer will donate fees to empty pool allowing MEV and having always stuck funds in the pool            
-
-  
-  
-  
-
+## [M-01] Last withdrawer will donate fees to empty pool allowing MEV and having always stuck funds in the pool
 ### Summary
 
   
@@ -1430,12 +1390,7 @@ if the withdrawer is the last withdrawer (vault supply is 0) send all fees to th
 
   
 
-## [M-02] Moving Average Length Validation Prevents Admin Override for Rules Requiring Historical Data            
-
-  
-  
-  
-
+## [M-02] Moving Average Length Validation Prevents Admin Override for Rules Requiring Historical Data
 ### Summary
 
   
@@ -1580,12 +1535,7 @@ Modify the validation in `_setInitialMovingAverages()` to handle rules requiri
 
   
 
-## [M-03] in `UpliftOnlyExample`, Immutable UpdateWeightRunner Address Prevents Seamless Contract Migration            
-
-  
-  
-  
-
+## [M-03] in `UpliftOnlyExample`, Immutable UpdateWeightRunner Address Prevents Seamless Contract Migration
 ### Summary
 
   
@@ -1654,12 +1604,7 @@ function setUpdateWeightRunner(address newRunner) external onlyOwner {
 
   
 
-## [M-04] Pool Weights are non-updatable After Updating `updateWeightRunner` address            
-
-  
-  
-  
-
+## [M-04] Pool Weights are non-updatable After Updating `updateWeightRunner` address
 ### Summary
 
   
@@ -1824,12 +1769,7 @@ function migrateRules(
 
   
 
-## [M-05] Users transferring their NFT position will retroactively get the new `upliftFeeBps`            
-
-  
-  
-  
-
+## [M-05] Users transferring their NFT position will retroactively get the new `upliftFeeBps`
 ### Summary
 
   
@@ -1960,12 +1900,7 @@ Don't override that variable, simply remove Line 611
 
   
 
-## [M-06] attacker can completely prevent users from withdrawing in `UpliftOnlyExample`            
-
-  
-  
-  
-
+## [M-06] attacker can completely prevent users from withdrawing in `UpliftOnlyExample`
 ### Summary
 
   
@@ -2114,12 +2049,7 @@ Manual Review
 
   
 
-## [M-07] division before multiplication in `lpTokenDepositValueChange` causes loss of fees            
-
-  
-  
-  
-
+## [M-07] division before multiplication in `lpTokenDepositValueChange` causes loss of fees
 ### Summary
 
   
@@ -2272,12 +2202,7 @@ File: UpliftOnlyExample.sol
 
   
 
-## [M-08] Single Storage Variable Used for Both Swap and Uplift Fees            
-
-  
-  
-  
-
+## [M-08] Single Storage Variable Used for Both Swap and Uplift Fees
 ### Summary
 
   
@@ -2377,12 +2302,7 @@ function getQuantAMMSwapFeeTake() external view returns (uint256) {
   
   
 
-## [L-01] `minWithdrawalFeeBps` are not added to `upliftFeeBps` causing loss of fees and allowing MEV actions            
-
-  
-  
-  
-
+## [L-01] `minWithdrawalFeeBps` are not added to `upliftFeeBps` causing loss of fees and allowing MEV actions
 ### Summary
 
   
@@ -2487,12 +2407,7 @@ add the `minWithdrawalFeeBps` to the `upliftFeeBps`
 
   
 
-## [L-02] There is no function to change `upliftFeeBps`            
-
-  
-  
-  
-
+## [L-02] There is no function to change `upliftFeeBps`
 ### Summary
 
   
@@ -2547,12 +2462,7 @@ function setUpliftFeeBps(uint64 newUpliftFeeBps) external onlyOwner {
 
 ```
 
-## [L-03] Last withdrawer will donate fees to empty pool allowing MEV and having always stuck funds in the pool            
-
-  
-  
-  
-
+## [L-03] Last withdrawer will donate fees to empty pool allowing MEV and having always stuck funds in the pool
 ### Summary
 
   
