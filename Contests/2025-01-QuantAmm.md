@@ -22,12 +22,7 @@
 | [L-02](#l-02-there-is-no-function-to-change-upliftfeebps)                                                           | There is no function to change `upliftFeeBps`                                                         |
 | [L-03](#l-03-last-withdrawer-will-donate-fees-to-empty-pool-allowing-mev-and-having-always-stuck-funds-in-the-pool) | Last withdrawer will donate fees to empty pool allowing MEV and having always stuck funds in the pool |
 
-## [H-01] Donations are sanwichable to steal funds from LP            
-
-  
-  
-  
-
+## [H-01] Donations are sanwichable to steal funds from LP
 ### Summary
 
   
