@@ -3,9 +3,9 @@
 Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 ## Contact Me
 
-- [**Twitter**](https://x.com/0xHuntoor)
-- [**Discord**](https://discord.com/users/715472416675070033)
-- [**Telegram**](http://t.me/Huntoor)
+- **Twitter**: [@0xHuntoor](https://x.com/0xHuntoor)
+- **Discord**: [@0xHuntoor](https://discord.com/users/715472416675070033)
+- **Telegram**: [@Huntoor](http://t.me/Huntoor)
 
 ## 🏆 Honors and Distinctions 🏆
 | Contest                                                                                                                  | Date      | As      | Description                                             | Findings                                                                                  |                                                          Rank                                                           |                                                   Report                                                    |
