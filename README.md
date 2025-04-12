@@ -3,11 +3,11 @@ Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 
 I Love auditing **Logic heavy protocols** especially **staking** (native and ERC20) and **DEX integrations** Especially balancerV3 or UniswapV4 hook integrators
 
-I achieved 2x🥇 1x🥈 1x🥉so far with my leaderboard rankings as follows:
-- [51](https://cantina.xyz/u/IlIlHunterlIlI) on all-time cantina leaderboard
-- [36](https://profiles.cyfrin.io/u/0xhuntoor) CodeHawks all-time leaderboard
+I achieved 2x🥇, 1x🥈, 1x🥉 and 8x Top 10 finishes contests so far with my **leaderboard** rankings as follows:
+- [51](https://cantina.xyz/u/IlIlHunterlIlI) on all-time **cantina** leaderboard
+- [36](https://profiles.cyfrin.io/u/0xhuntoor) **CodeHawks** all-time leaderboard
 
-Got a paid bounty of high severity bug draining a contract along alot of other valuable Bugs on HackenProof becoming [62](https://hackenproof.com/hackers/0xhuntoor) on the all-time leaderboard
+Got a paid bounty of high severity bug draining a contract along alot of other valuable Bugs on **HackenProof** becoming [62](https://hackenproof.com/hackers/0xhuntoor) on the all-time leaderboard
 
 **My mission is to be remembered whenever any one mentions Staking/DEX** 
 ## Contact Me
