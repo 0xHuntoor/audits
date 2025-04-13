@@ -1,7 +1,7 @@
 ## About me
 Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 
-I Love auditing **Logic heavy protocols** especially **staking** (native and ERC20) and **DEX integrations** Especially balancerV3 or UniswapV4 hook integrators
+I audit **Logic heavy protocols** especially **staking** (native and ERC20) and **DEX integrations** Especially balancerV3 or UniswapV4 hook integrators
 
 I achieved 2x🥇, 1x🥈, 1x🥉 and 8x Top 10 finishes contests so far with my **leaderboard** rankings as follows:
 - [51](https://cantina.xyz/u/IlIlHunterlIlI) on all-time **cantina** leaderboard
