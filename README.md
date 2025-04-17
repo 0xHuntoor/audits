@@ -9,7 +9,7 @@ I achieved 2x🥇, 1x🥈, 1x🥉 and 8x Top 10 finishes contests so far with my
 
 Got a paid bounty of high severity bug draining a contract along alot of other valuable Bugs on **HackenProof** becoming [62](https://hackenproof.com/hackers/0xhuntoor) on the all-time leaderboard
 
-**My mission is to be remembered whenever any one mentions Staking/DEX** 
+**My mission is to be remembered whenever any one mentions Staking/DEX Integrations** 
 ## Contact Me
 
 - **Twitter**: [@0xHuntoor](https://x.com/0xHuntoor)
