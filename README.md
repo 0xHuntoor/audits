@@ -5,25 +5,27 @@ Hi, I'm **Hunter**, _I'm hunting bugs everywhere_
 
 I specialize in auditing **Logic heavy protocols**, especially **staking** (native and ERC20) and **DEX integrations** such as balancerV3 or UniswapV4 hook integrators
 
-2x🥇, 1x🥈, 1x🥉 and 8x Top 10 finishes
-- [52](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
+2x🥇, 1x🥈, 1x🥉 and 9x Top 10 finishes
+- [34](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
 - [36](https://profiles.cyfrin.io/u/0xhuntoor) on  **CodeHawks** leaderboard
-- [62](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
+- [63](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
 
-**My mission is to be remembered whenever any one mentions Staking/DEX Integrations** 
+**For private Audits, check this [Link](https://github.com/0xHuntoor/audits/blob/main/ask-for-audit.md)** 
 ## Contact Me
 
 - **Twitter**: [@0xHuntoor](https://x.com/0xHuntoor)
 - **Discord**: [@0xHuntoor](https://discord.com/users/715472416675070033)
 - **Telegram**: [@Huntoor](http://t.me/Huntoor)
 
-## 🏆 Honors and Distinctions 🏆
+## Honors and Distinctions
+
 | Contest                                                                                                                  | Date      | As                                           | Description                                             | Findings                                                                                  |                                                          Rank                                                           |                                                   Report                                                    |
 | :----------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------- | :------------------------------------------------------ | :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 | [Infrared Finance](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d)                                | Jan 2025  | Solo                                         | LST in Bera chain                                       | [4H, 3M(1 solo), 3L, 3I](/Contests/2025-01-infrared.md)                                   |             [1st](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/leaderboard)<br>🥇              |                                                      -                                                      |
 | [QuantAMM](https://codehawks.cyfrin.io/c/2024-12-quantamm)                                                               | Jan 2025  | Solo                                         | Custom BalancerV3 Pools + custom hook integration       | [8H, 8M (2 solo), 3L](/Contests/2025-01-QuantAmm.md)                                      | [1st](https://codehawks.cyfrin.io/c/2024-12-quantamm/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🥇 | [📄](https://codehawks.cyfrin.io/c/2024-12-quantamm/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
+| [EigenLayer-Core](https://cantina.xyz/competitions/e7af4986-183d-4764-8bd2-1d6b47f87d99)                                 | Mars 2025 | Solo                                         | Restaking Protocol                                      | [1H](/Contests/2025-03-EigenLayer.md)                                                     |                [6th](https://cantina.xyz/competitions/e7af4986-183d-4764-8bd2-1d6b47f87d99/leaderboard)                 |                                                      -                                                      |
 | [FenixFinance](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard) | Jul 2024  | Solo                                         | Smart Dex                                               | [1M (1 Solo)](/Contests/2024-07-Fenix.md)                                                 |  [2nd](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard)<br>🥈  |       [📄](https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/issues)        |
 | [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496)                                                      | OCT 2024  | Solo                                         | Liquidity Management, Zero Knowledge Proofs             | [1H](/Contests/2024-10-Gamma.md)                                                          |                            [3rd](https://audits.sherlock.xyz/contests/496/leaderboard)<br>🥉                            |                            [📄](https://audits.sherlock.xyz/contests/496/report)                            |
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)                                                    | Dec 2024  | [BugPull](https://github.com/bugpull/audits) | Yearn V3 Tokenized Vault Integration                    | [3M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)            | [4th](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🏅 | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
@@ -37,7 +39,7 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 |------------|---------|---------|---------|
 |Common Wealth|Staking and on-chain VC |High|Private  |
 
-## 🧑🏽‍⚖️ Contests I Judged
+## Contests I Judged
 
 | Contest                                                                                    | Data       | Description                                                                 | Platform |
 | ------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------------- | -------- |
