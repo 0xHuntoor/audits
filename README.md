@@ -12,7 +12,7 @@ I specialize in auditing **Logic heavy protocols**, especially **staking** (nati
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
 
-**If you wants a private Audits, check this [Link](https://github.com/0xHuntoor/audits/blob/main/ask-for-audit.md)** 
+**If you want a private Audit, check this [Link](https://github.com/0xHuntoor/audits/blob/main/ask-for-audit.md)** 
 ## Contact Me
 
 - **Twitter**: [@0xHuntoor](https://x.com/0xHuntoor)
