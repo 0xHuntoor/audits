@@ -81,7 +81,7 @@ If the protocol will be used to steal users’ funds, drain wallets, or deceive 
 
 I do not accept auditing protocols that deal with lotteries and gambling, like casino protocols where people bid with their money and may be the winner.
 
-### Lending/Borrowing with interest rate > 0
+### Lending/Borrowing
 
 Lending/borrowing protocols like AAVE and Compound are some of the most famous protocols in the DeFi space, and they are used a lot. In most cases, the borrower will return the value he took from the lender and pay fees for this.
 - For example, if he borrowed 100 ETH, he will pay 100.5 ETH when giving it back to the lender.
