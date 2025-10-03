@@ -2,7 +2,7 @@
 
 My auditing process involves multiple phases to improve the safety of the protocol as much as I can.
 
-You can message me on **[Twitter](https://twitter.com/0xhuntoor)**, **[Discord](https://discord.com/users/715472416675070033)**, or **[Telegram](https://t.me/huntoor)** to request it.
+You can message me on **[Telegram](https://t.me/huntoor)** to request it.
 
 ### Pre-Audit Phase
 This process may take a few hours or a day at most. In this phase, I review the protocol and check its structure and code.
@@ -44,9 +44,12 @@ The price to audit the protocol depends on two different things:
 1. The number of Solidity code lines (the more code, the more expensive).
 2. The code complexity (is there an integration with another protocol, heavy math, YUL code, etc.).
 
-The price ranges between [5, 10] USDC per LOC based on https://github.com/Consensys/solidity-metrics.
+The price ranges between: 
+- [5, 10] USDC per LOC based on https://github.com/Consensys/solidity-metrics.
+- 4-8K/week
+Whatever rating method is more convenient for you.
 
-The price per LOC is adjusted according to the complexity of the code.
+The price is adjusted according to the complexity of the code.
 
 ### Duration:
 
@@ -81,7 +84,7 @@ If the protocol will be used to steal users’ funds, drain wallets, or deceive 
 
 I do not accept auditing protocols that deal with lotteries and gambling, like casino protocols where people bid with their money and may be the winner.
 
-### Lending/Borrowing
+### Lending/Borrowing with interest rate > 0
 
 Lending/borrowing protocols like AAVE and Compound are some of the most famous protocols in the DeFi space, and they are used a lot. In most cases, the borrower will return the value he took from the lender and pay fees for this.
 - For example, if he borrowed 100 ETH, he will pay 100.5 ETH when giving it back to the lender.
