@@ -6,9 +6,9 @@ Hi, I'm **Hunter**, _I'm hunting bugs everywhere_
 I specialize in auditing **Logic heavy protocols**, especially **staking** (native and ERC20) and **DEX integrations** such as balancerV3 or UniswapV4 hook integrators
 
 2x🥇, 1x🥈, 1x🥉 and 9x Top 10 finishes
-- [34](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
+- [37](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
 - [41](https://profiles.cyfrin.io/u/0xhuntoor) on  **CodeHawks** leaderboard
-- [63](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
+- [67](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
 
