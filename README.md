@@ -7,8 +7,8 @@ I specialize in auditing **Logic heavy protocols**, especially **staking** (nati
 
 2x🥇, 1x🥈, 1x🥉 and 9x Top 10 finishes
 - [37](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
-- [41](https://profiles.cyfrin.io/u/0xhuntoor) on  **CodeHawks** leaderboard
-- [67](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
+- [43](https://profiles.cyfrin.io/u/huntoor) on  **CodeHawks** leaderboard
+- [67](https://hackenproof.com/hackers/huntoor) on **HackenProof** leaderboard
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
 
