@@ -37,10 +37,10 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 
 ## Engagements
 
-| Protocol                            | Description             | With                              | Findings       | Report |
-| :---------------------------------- | :---------------------- | :-------------------------------- | :------------- | :----: |
-| [Sofamon](https://www.sofamon.xyz/) | NFTs royalty management | [Pashov](https://www.pashov.com/) | 1 C, 1 M, 10 L |   -    |
-| [Kinetiq](https://kinetiq.xyz/)     | HyperVm liquid staking  | [Pashov](https://www.pashov.com/) | 5 M, 8 L       |   -    |
+| Protocol                            | Description                | With                                          | Findings       | Report |
+| :---------------------------------- | :------------------------- | :-------------------------------------------- | :------------- | :----: |
+| [Sofamon](https://www.sofamon.xyz/) | NFTs royalty management    | [Pashov Audit Group](https://www.pashov.com/) | 1 C, 1 M, 10 L |   -    |
+| [Kinetiq](https://kinetiq.xyz/)     | HyperLiquid liquid staking | [Pashov Audit Group](https://www.pashov.com/) | 5 M, 8 L       |   -    |
 
 ## Bug Bounties
 
