@@ -6,7 +6,7 @@ Hi, I'm **Hunter**, _I'm hunting bugs everywhere_
 I specialize in auditing **Logic heavy protocols**, especially **staking** (native and ERC20) and **DEX integrations** such as balancerV3 or UniswapV4 hook integrators
 
 2x🥇, 1x🥈, 1x🥉 and 9x Top 10 finishes
-- [37](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
+- [38](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
 - [43](https://profiles.cyfrin.io/u/huntoor) on  **CodeHawks** leaderboard
 - [67](https://hackenproof.com/hackers/huntoor) on **HackenProof** leaderboard
   
