@@ -41,7 +41,7 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 | :-------------------------------------- | :--------------------------------------------------- | :-------------------------------------------- | :---------- | :-------------------------------------------------------------------------------------------------------: |
 | [Sofamon](https://www.sofamon.xyz/)     | NFTs royalty management                              | [Pashov Audit Group](https://www.pashov.com/) | 1C, 1M, 10L | [📄](https://github.com/pashov/audits/blob/master/team/pdf/WishWish-security-review_2025-11-04%20(1).pdf) |
 | [Kinetiq](https://kinetiq.xyz/)         | HyperLiquid liquid staking                           | [Pashov Audit Group](https://www.pashov.com/) | 5M, 8L      |                                                     -                                                     |
-| [Top Strike](https://www.topstrike.io/) | Player cards IPO and quadratic bonding curve trading | [Pashov Audit Group](https://www.pashov.com/) | 3M, 16L     |                                                     -                                                     |
+| [Top Strike](https://www.topstrike.io/) | Player cards IPO and quadratic bonding curve trading | [Pashov Audit Group](https://www.pashov.com/) | 3M, 16L     |   [📄](https://github.com/pashov/audits/blob/master/team/pdf/TopStrike-security-review_2025-12-18.pdf)    |
 
 ## Bug Bounties
 
