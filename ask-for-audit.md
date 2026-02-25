@@ -36,23 +36,7 @@ This is how the auditing process occurs. Feel free to drop a message, and I will
 
 ---
 
-## Pricing And Duration
-
-### Pricing:
-
-The price to audit the protocol depends on two different things:
-1. The number of Solidity code lines (the more code, the more expensive).
-2. The code complexity (is there an integration with another protocol, heavy math, YUL code, etc.).
-
-The price ranges between: 
-- [5, 10] USDC per LOC based on https://github.com/Consensys/solidity-metrics.
-- 4-8K/week
-
-Whatever rating method is more convenient for you.
-
-The price is adjusted according to the complexity of the code.
-
-### Duration:
+## Duration
 
 The duration is not a constant period for all protocols with the same SLOCs, as complexity and conditions vary. But in normal cases, here is a table of the durations of the protocol according to the SLOC, where it should not exceed these periods.
 
