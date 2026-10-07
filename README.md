@@ -1,13 +1,14 @@
 ## About me
-Hi, I'm **Hunter**, _I'm hunting bugs everywhere_
 
 **I'm an independent security researcher, Sherlock Lead judge and Cantina judge**
 
 I specialize in auditing **Logic heavy protocols**, especially **staking** (native and ERC20) and **DEX integrations** such as balancerV3 or UniswapV4 hook integrators
 
-2x🥇, 1x🥈, 1x🥉 and 9x Top 10 finishes
-- [38](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
-- [43](https://profiles.cyfrin.io/u/huntoor) on  **CodeHawks** leaderboard
+**Found over 100C/H/M bugs** in total
+
+2x🥇, 2x🥈, 1x🥉 and 9x Top 10 finishes
+- [39](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
+- [43](https://profiles.cyfrin.io/u/huntoor) on **CodeHawks** leaderboard
 - [67](https://hackenproof.com/hackers/huntoor) on **HackenProof** leaderboard
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
@@ -16,8 +17,6 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 - See my availability [Here](https://calendly.com/0xhuntoor/30min)
 ## Contact Me
 
-- **Twitter**: [@0xHuntoor](https://x.com/0xHuntoor)
-- **Discord**: [@0xHuntoor](https://discord.com/users/715472416675070033)
 - **Telegram**: [@Huntoor](http://t.me/Huntoor)
 
 ## Honors and Distinctions
@@ -34,20 +33,21 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 | [Munchables - LandManager](https://code4rena.com/audits/2024-07-munchables)                                              | July 2024 | [BugPull](https://github.com/bugpull/audits) | GameFi, Point Farming                                   | [3H, 1L](https://github.com/bugpull/audits/blob/main/Contests/2024-07-munchables.md)      |                              [5th](https://code4rena.com/audits/2024-07-munchables)<br>🏅                               |                           [📄](https://code4rena.com/reports/2024-07-munchables)                            |
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)                                                        | Sep 2024  | [BugPull](https://github.com/bugpull/audits) | Liquidity protocol for NFTs with custom Uniswap V4 hook | [6M (1 solo), 8H](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md) |                            [5th](https://audits.sherlock.xyz/contests/468/leaderboard)<br>🏅                            |                            [📄](https://audits.sherlock.xyz/contests/468/report)                            |
 - **Browse all of my public contests participation [here](https://audits.sherlock.xyz/watson/Huntoor)**
-
 ## Engagements
 
-| Protocol                                                                   | Description                                                                  | With                                          | Findings    |                                                                Report                                                                 |
-| :------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :-------------------------------------------- | :---------- | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| [PanCakeSwap infinity hooks](https://pancakeswap.finance/)                 | JIT liquidity hook farming yields                                            | [BailSec](https://bailsec.io/)                | 3M, 16L, 8I |                                                                   -                                                                   |
-| [BNB Chain](https://github.com/bnb-chain/BEPs/blob/master/BEPs/BEP-677.md) | BEP-677 Scaled UI Amount                                                     | [Pashov Audit Group](https://www.pashov.com/) | 5L          | [📄](https://github.com/pashov/audits/blob/5f5b1823c0cdb4d0f3fc9bd391257eb900d99989/team/pdf/BNBChain-security-review_2026-04-30.pdf) |
-| Jet Stream Vaults                                                          | yield farming                                                                | [Pashov Audit Group](https://www.pashov.com/) | 2C, 5M, 18L |                                                                   -                                                                   |
-| [Reserve](https://reserve.org/)                                            | Reserve Governor Protocol                                                    | [Pashov Audit Group](https://www.pashov.com/) | 2M, 11L     | [📄](https://github.com/pashov/audits/blob/699447cf6a70e499cd22a9e91b2ae1f677ca2972/team/pdf/Reserve-security-review_2026-02-27.pdf)  |
-| [MegPrimePay](https://linktr.ee/MegPrimePay)                               | ERC20 token with anti-sniper tax mechanisms applied to AMM pool interactions | [Pashov Audit Group](https://www.pashov.com/) | 2M, 9L      |                                                                   -                                                                   |
-| [Monarch](https://monarch.fast/)                                           | hub-and-spoke rewards and treasury router                                    | [Pashov Audit Group](https://www.pashov.com/) | 1M, 18L     |                                                                   -                                                                   |
-| [Top Strike](https://www.topstrike.io/)                                    | Player cards IPO and quadratic bonding curve trading                         | [Pashov Audit Group](https://www.pashov.com/) | 3M, 16L     |                 [📄](https://github.com/pashov/audits/blob/master/team/pdf/TopStrike-security-review_2025-12-18.pdf)                  |
-| [Kinetiq](https://kinetiq.xyz/)                                            | HyperLiquid liquid staking                                                   | [Pashov Audit Group](https://www.pashov.com/) | 5M, 8L      |                                                                   -                                                                   |
-| [Sofamon](https://www.sofamon.xyz/)                                        | NFTs royalty management                                                      | [Pashov Audit Group](https://www.pashov.com/) | 1C, 1M, 10L |               [📄](https://github.com/pashov/audits/blob/master/team/pdf/WishWish-security-review_2025-11-04%20(1).pdf)               |
+| Protocol                                                                                                                   | Description                                                                             | With                                          | Findings    |                                                                Report                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :-------------------------------------------- | :---------- | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| [Lista Liquid Staking](https://lista.org/)                                                                                 | Sub staker contract to split voting power of the liquid staking                         | [BailSec](https://bailsec.io/)                | Private     |                                                                   -                                                                   |
+| [BNB PropAMM Standard](https://github.com/asiawildboar/BEPs/blob/a237e9f756afaaf20aea120e7172ad84e7ae5c70/BAPs/BAP-710.md) | BAP-710 PropAMM on-chain standard to facilitate maker/taker/relayer off-chain relations | [BailSec](https://bailsec.io/)                | Private     |                                                                   -                                                                   |
+| [PanCakeSwap infinity hooks](https://pancakeswap.finance/)                                                                 | JIT liquidity hook farming yields                                                       | [BailSec](https://bailsec.io/)                | 3M, 16L, 8I |                                                                   -                                                                   |
+| [BNB Chain](https://github.com/bnb-chain/BEPs/blob/master/BEPs/BEP-677.md)                                                 | BEP-677 Scaled UI Amount                                                                | [Pashov Audit Group](https://www.pashov.com/) | 5L          | [📄](https://github.com/pashov/audits/blob/5f5b1823c0cdb4d0f3fc9bd391257eb900d99989/team/pdf/BNBChain-security-review_2026-04-30.pdf) |
+| Jet Stream Vaults                                                                                                          | yield farming                                                                           | [Pashov Audit Group](https://www.pashov.com/) | 2C, 5M, 18L |                                                                   -                                                                   |
+| [Reserve](https://reserve.org/)                                                                                            | Reserve Governor Protocol                                                               | [Pashov Audit Group](https://www.pashov.com/) | 2M, 11L     | [📄](https://github.com/pashov/audits/blob/699447cf6a70e499cd22a9e91b2ae1f677ca2972/team/pdf/Reserve-security-review_2026-02-27.pdf)  |
+| [MegPrimePay](https://linktr.ee/MegPrimePay)                                                                               | ERC20 token with anti-sniper tax mechanisms applied to AMM pool interactions            | [Pashov Audit Group](https://www.pashov.com/) | 2M, 9L      |                                                                   -                                                                   |
+| [Monarch](https://monarch.fast/)                                                                                           | hub-and-spoke rewards and treasury router                                               | [Pashov Audit Group](https://www.pashov.com/) | 1M, 18L     |                                                                   -                                                                   |
+| [Top Strike](https://www.topstrike.io/)                                                                                    | Player cards IPO and quadratic bonding curve trading                                    | [Pashov Audit Group](https://www.pashov.com/) | 3M, 16L     |                 [📄](https://github.com/pashov/audits/blob/master/team/pdf/TopStrike-security-review_2025-12-18.pdf)                  |
+| [Kinetiq](https://kinetiq.xyz/)                                                                                            | HyperLiquid liquid staking                                                              | [Pashov Audit Group](https://www.pashov.com/) | 5M, 8L      |                                                                   -                                                                   |
+| [Sofamon](https://www.sofamon.xyz/)                                                                                        | NFTs royalty management                                                                 | [Pashov Audit Group](https://www.pashov.com/) | 1C, 1M, 10L |               [📄](https://github.com/pashov/audits/blob/master/team/pdf/WishWish-security-review_2025-11-04%20(1).pdf)               |
 
 ## Bug Bounties
 
@@ -57,11 +57,11 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 
 ## Contests I Judged
 
-| Contest                                                                                    | Data       | Description                                                                                                              | Platform |
-| ------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [mev-commit](https://cantina.xyz/competitions/217af22c-957e-4c13-bc2a-1d5255e72309)        | Sep 2025   | Primev’s L1 smart contracts for routing builder payments, distributing validator stipends, and managing bidder deposits. | Cantina  |
-| [Succinct Staking](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview) | Jul 2025   | Staking logic of the [succinct network](https://www.succinct.xyz/)                                                       | Cantina  |
-| [Aquarius AMM](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)      | May 2025   | AMM rust protocol on stellar chain implementing Curve stable swap and UniV2                                              | Cantina  |
-| [ZKP2P V2](https://audits.sherlock.xyz/contests/805)                                       | April 2025 | Escrow contracts integrated with ZK off-chain logic                                                                      | Sherlock |
-| [Gamma Limit Order](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | April 2025 | A limit order protocol based on UniV4 Hook                                                                               | Cantina  |
-
+| Contest                                                                                    | Data       | Description                                                                                                              | Platform              |
+| ------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| [Pare Stocks](https://parestocks.com/)                                                     | Sep 2026   | Robinhood stock tokens on Robinhood Chain, split into a principal token and a yield token                                | Pashov Auditing Group |
+| [mev-commit](https://cantina.xyz/competitions/217af22c-957e-4c13-bc2a-1d5255e72309)        | Sep 2025   | Primev’s L1 smart contracts for routing builder payments, distributing validator stipends, and managing bidder deposits. | Cantina               |
+| [Succinct Staking](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview) | Jul 2025   | Staking logic of the [succinct network](https://www.succinct.xyz/)                                                       | Cantina               |
+| [Aquarius AMM](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)      | May 2025   | AMM rust protocol on stellar chain implementing Curve stable swap and UniV2                                              | Cantina               |
+| [ZKP2P V2](https://audits.sherlock.xyz/contests/805)                                       | April 2025 | Escrow contracts integrated with ZK off-chain logic                                                                      | Sherlock              |
+| [Gamma Limit Order](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | April 2025 | A limit order protocol based on UniV4 Hook                                                                               | Cantina               |
